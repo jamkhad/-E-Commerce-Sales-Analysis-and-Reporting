@@ -1,0 +1,101 @@
+customer_id,customer_name,age,gender,country,email,date_joined
+50,Jennifer Green,64,Male,Malawi,ysullivan@example.com,2024-10-04
+46,Susan Wagner,55,Male,Finland,katelynmontgomery@example.com,2024-10-18
+69,Dr. Stephanie Collins,55,Male,Saint Lucia,nolangabriella@example.com,2023-12-11
+56,Martin Harris,24,Male,Micronesia,hramos@example.com,2022-12-12
+71,Anna Larsen,68,Male,Russian Federation,salazarmaria@example.com,2023-04-24
+42,Amy Stark,56,Female,Cyprus,lindathomas@example.net,2023-09-20
+11,Sheri Bolton DDS,36,Female,Gabon,jasmine85@example.net,2023-03-25
+78,Donna Davis,52,Female,South Georgia and the South Sandwich Islands,pstewart@example.com,2023-03-11
+24,William Green,29,Male,Bangladesh,sheltondavid@example.org,2024-09-01
+90,Kimberly Myers,54,Male,Romania,aimee33@example.net,2024-01-02
+54,Joanne Keller,68,Male,Reunion,christopher91@example.com,2023-12-31
+43,Dana Dennis,63,Female,Brazil,nathanjackson@example.com,2024-06-15
+13,Savannah Robinson,46,Female,Svalbard & Jan Mayen Islands,johnsoncynthia@example.net,2024-06-25
+16,Jacob Hooper,63,Male,Argentina,leetara@example.net,2023-01-26
+27,Amy Shelton,27,Female,Mayotte,qoliver@example.org,2023-04-07
+83,Jeffrey Brown,55,Male,Lao People's Democratic Republic,carlsonholly@example.com,2023-03-22
+94,Steven Hudson,61,Female,Qatar,tammybrown@example.net,2023-02-20
+21,David Carlson,50,Male,Kenya,alexandermaldonado@example.net,2024-07-28
+40,Jasmine Sandoval,29,Male,Cape Verde,ellischristian@example.net,2022-11-30
+36,Philip Olson,63,Female,New Zealand,emily99@example.org,2024-04-03
+96,Matthew Smith,44,Female,Congo,ernest37@example.com,2024-03-30
+87,Jennifer Morales,29,Female,Reunion,tbarton@example.org,2023-02-26
+9,Christopher Rose,25,Male,Libyan Arab Jamahiriya,hensontroy@example.com,2024-07-01
+7,Sheri Burnett,55,Female,Comoros,monroedavid@example.org,2023-08-17
+41,Adrian Fischer,54,Male,Swaziland,leecharlene@example.org,2024-07-27
+89,Ariel Nash,48,Female,Indonesia,johnsonrobin@example.org,2024-07-18
+18,Ruth Newman,51,Male,Brazil,joshuasmith@example.org,2023-03-27
+34,Theresa Mays,51,Male,United States of America,mathissusan@example.net,2024-02-19
+92,Judy Graham,50,Female,Tunisia,jaredmatthews@example.org,2023-02-06
+35,Richard Higgins,58,Female,Guadeloupe,williamsfrank@example.net,2023-05-27
+51,Beverly Wilson PhD,52,Male,Vietnam,parkermelody@example.net,2022-12-18
+52,Elizabeth Rodriguez,26,Female,Monaco,zwells@example.com,2023-01-26
+15,Jessica Turner,35,Male,Saint Pierre and Miquelon,samanthasims@example.com,2024-06-08
+82,Robert Gonzalez,35,Female,Cyprus,cruzcorey@example.net,2023-11-11
+58,Rachel Klein,42,Female,Cuba,omiller@example.com,2023-12-29
+22,Ian Brown,40,Male,Tonga,leachshannon@example.net,2023-03-24
+64,Daniel Williams,61,Male,Yemen,cindygarcia@example.com,2023-07-31
+70,Ashley Carlson,39,Female,Libyan Arab Jamahiriya,annelittle@example.com,2024-07-30
+86,Kimberly Velazquez,67,Female,Algeria,janice55@example.org,2023-11-15
+33,Brittney Gray,25,Male,French Polynesia,fjones@example.net,2024-07-24
+6,Carlos Turner,40,Female,Senegal,krivera@example.org,2024-07-24
+59,Kathy Santana,34,Female,Macao,berryerika@example.net,2024-05-03
+10,Susan Harris,35,Female,Mauritania,epetersen@example.com,2024-01-15
+30,Rebecca Sandoval,49,Male,Afghanistan,kevinhudson@example.com,2022-12-14
+39,Janet Reyes,20,Female,Central African Republic,johnblair@example.com,2022-12-07
+5,Mr. Steve Guzman,25,Female,Belgium,lisagomez@example.org,2024-01-18
+61,Alicia George,50,Male,Bulgaria,daniel85@example.org,2023-08-04
+100,Ashley Brown,57,Male,Reunion,vmendez@example.net,2023-01-26
+88,Elizabeth Sweeney,67,Male,United States Minor Outlying Islands,vlloyd@example.net,2024-10-15
+67,Whitney Johnson,43,Female,India,mwatson@example.com,2023-07-15
+81,Andrew Villa,51,Male,Libyan Arab Jamahiriya,rachel89@example.net,2024-07-29
+12,Stacey Burton,37,Male,Macao,hhunter@example.org,2023-09-04
+73,Bradley Garcia,54,Female,Bahrain,perryeric@example.org,2024-05-28
+4,Sean Nguyen III,49,Male,Guinea,martinezheather@example.com,2023-07-09
+2,Crystal Diaz,62,Male,Nepal,jaredharris@example.net,2024-04-15
+1,Michael Cantu,41,Male,Djibouti,jacobrodriguez@example.com,2024-03-28
+17,Daniel Rogers,58,Male,French Guiana,sharon85@example.org,2024-01-04
+14,Elizabeth Bennett,66,Female,Cameroon,lindastewart@example.org,2023-04-18
+38,Matthew Callahan,50,Male,Netherlands Antilles,longjacqueline@example.org,2023-08-31
+95,Leslie Evans,31,Male,Guinea,wrightcynthia@example.net,2024-09-20
+8,Adam Hayden,70,Male,United Arab Emirates,scott54@example.com,2023-01-02
+72,Brittany Park,48,Female,Vanuatu,alopez@example.com,2023-03-04
+44,Brenda Ford,26,Female,Northern Mariana Islands,webbjames@example.org,2024-06-25
+80,Daniel Wilson,26,Male,Norfolk Island,amy26@example.net,2024-04-29
+98,Kimberly Sullivan,56,Male,Norfolk Island,martineznicole@example.org,2022-10-28
+68,Michelle Wallace,21,Male,San Marino,michael39@example.org,2022-11-22
+32,Pamela Jones,60,Male,Tokelau,justin29@example.net,2024-01-29
+53,Kimberly Figueroa,25,Female,United Kingdom,kelly59@example.net,2023-02-05
+49,John Castro,46,Male,French Southern Territories,crystal63@example.com,2023-10-20
+65,Matthew Brown,56,Male,French Southern Territories,juliewilliams@example.net,2023-04-03
+47,Marc Key,20,Female,Tunisia,jessica32@example.net,2023-05-26
+19,Michael Warren,66,Male,Bulgaria,reneewallace@example.com,2023-09-05
+63,Daniel Gonzalez,57,Female,Wallis and Futuna,brendawilliams@example.com,2022-11-21
+23,Edward Miller,32,Male,Trinidad and Tobago,kelsey56@example.com,2022-12-06
+84,Tara Villa,23,Female,Mozambique,thenry@example.com,2023-04-03
+45,Matthew Taylor,56,Female,Solomon Islands,mbecker@example.com,2023-12-09
+29,Gerald Garcia,38,Male,Turks and Caicos Islands,nortonmarcus@example.com,2024-08-11
+25,Daniel Warren,31,Male,Comoros,johndaniel@example.com,2023-06-13
+62,Micheal Williams,22,Male,Vietnam,smithtyler@example.com,2022-12-01
+57,Brad Garcia,54,Male,Serbia,robertcalhoun@example.com,2024-01-18
+55,Stacie Foster,43,Male,Cocos (Keeling) Islands,tracyanderson@example.com,2024-09-10
+37,Rachel Dawson,46,Male,Slovakia (Slovak Republic),dpalmer@example.net,2024-02-03
+3,Richard Garcia,43,Male,Saint Martin,swright@example.net,2024-10-25
+66,Anthony Cruz,58,Female,Faroe Islands,maddoxannette@example.org,2024-03-04
+91,Diane Singh,21,Male,United Arab Emirates,calvinparker@example.com,2023-04-16
+75,Robert Tran,27,Male,Greece,brenda02@example.com,2023-02-18
+99,Cindy Oconnor,26,Male,Suriname,kathleengomez@example.net,2023-02-01
+79,Kelsey Howard,48,Male,Korea,alexander38@example.net,2023-02-24
+93,Danielle Roy,38,Female,Paraguay,jordanpowers@example.com,2022-11-09
+74,Morgan Hernandez,44,Female,Angola,bburton@example.org,2022-11-29
+85,Steven Robinson,50,Male,Jordan,michaelthompson@example.com,2024-04-12
+60,Krystal Martinez,36,Female,Zimbabwe,gjackson@example.org,2024-01-25
+31,Samantha Wright,48,Female,Angola,juliamassey@example.net,2023-02-28
+77,Mark Mckinney,55,Female,Nicaragua,kinglinda@example.net,2023-07-30
+20,Jordan Martin,46,Female,Sao Tome and Principe,zmorgan@example.com,2024-09-17
+76,Kim Hutchinson,31,Female,Central African Republic,markburgess@example.org,2023-12-29
+97,Eric Smith,70,Female,Slovakia (Slovak Republic),sophia88@example.net,2023-06-17
+26,Jasmine Rowe,26,Female,Niue,cterry@example.net,2023-10-03
+28,Angel Russell,20,Male,Palestinian Territory,tammy66@example.org,2023-10-07
+48,Lindsey Chan,20,Female,Turkey,joshuacarr@example.com,2024-10-01
